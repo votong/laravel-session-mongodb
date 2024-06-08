@@ -1,4 +1,4 @@
-<?php namespace Jenssegers\Mongodb\Session;
+<?php namespace VoTong\Mongodb\Session;
 
 use Illuminate\Support\ServiceProvider;
 

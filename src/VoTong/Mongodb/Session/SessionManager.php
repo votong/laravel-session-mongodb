@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenssegers\Mongodb\Session;
+namespace VoTong\Mongodb\Session;
 
 use Symfony\Component\HttpFoundation\Session\Storage\Handler\MongoDbSessionHandler;
 
